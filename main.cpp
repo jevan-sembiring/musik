@@ -33,6 +33,59 @@ int main(){
     bool playingFromQueue = false;
     int running = 1;
 
+    insertSongToGenre(G, {0, "We Hug Now", "Sydney Rose", "Pop", "Single", 2025, 210});
+    insertSongToGenre(G, {0, "Birds of a Feather", "Billie Eilish", "Pop", "Album1", 2025, 195});
+    insertSongToGenre(G, {0, "Down Bad", "Taylor Swift", "Pop", "Album2", 2025, 200});
+    insertSongToGenre(G, {0, "Slow It Down", "Benson Boone", "Pop", "EP1", 2025, 205});
+    insertSongToGenre(G, {0, "Illusion", "Dua Lipa", "Pop", "Album3", 2025, 198});
+    insertSongToGenre(G, {0, "APT.", "BLACKPINK & Bruno Mars", "Pop", "Single", 2025, 220});
+    insertSongToGenre(G, {0, "Man I Need", "Olivia Dean", "Pop", "Single", 2025, 215});
+    insertSongToGenre(G, {0, "Sailor Song", "Gigi Perez", "Pop", "Single", 2025, 190});
+    insertSongToGenre(G, {0, "Azul", "J Balvin", "Pop", "Album4", 2025, 200});
+    insertSongToGenre(G, {0, "Hold My Hand", "Jess Glynne", "Pop", "Album5", 2025, 202});
+    insertSongToGenre(G, {0, "Rock That Body", "Black Eyed Peas", "Pop", "Album6", 2025, 210});
+    insertSongToGenre(G, {0, "Good Luck, Babe!", "Chappell Roan", "Pop", "Single", 2025, 208});
+    insertSongToGenre(G, {0, "Party 4 U", "Charli XCX", "Pop", "Album7", 2025, 215});
+    // Bisa lanjut ke Hip-Hop / R&B / Dance
+    insertSongToGenre(G, {0, "Ordinary", "Alex Warren", "Hip-Hop", "Single", 2025, 180});
+    insertSongToGenre(G, {0, "Not Like Us", "Kendrick Lamar", "Hip-Hop", "Album1", 2025, 200});
+    insertSongToGenre(G, {0, "My World", "Chuckyy", "Hip-Hop", "Single", 2025, 195});
+    insertSongToGenre(G, {0, "Tap Twice", "KESHA", "Hip-Hop", "Single", 2025, 198});
+    insertSongToGenre(G, {0, "Show Me Love", "WizTheMc & Bees", "Hip-Hop", "Single", 2025, 205});
+    insertSongToGenre(G, {0, "Dame Un Grrr", "Fantomel x Kate Linn", "Hip-Hop", "Single", 2025, 207});
+    insertSongToGenre(G, {0, "Azul (Remix)", "J Balvin", "Hip-Hop", "Album4", 2025, 202});
+    insertSongToGenre(G, {0, "Stecu Stecu", "Faris Adam", "Hip-Hop", "Single", 2025, 190});
+    insertSongToGenre(G, {0, "Sailor Song (Hip-Hop Remix)", "Gigi Perez", "Hip-Hop", "Single", 2025, 192});
+    insertSongToGenre(G, {0, "Yum Yum Bounce", "Trippy Tofu ft. Biaza", "Hip-Hop", "Single", 2025, 200});
+    insertSongToGenre(G, {0, "Rock That Body (Rap Mix)", "Black Eyed Peas", "Hip-Hop", "Album6", 2025, 210});
+    insertSongToGenre(G, {0, "Ordinary (Remix)", "Alex Warren", "Hip-Hop", "Single", 2025, 180});
+    insertSongToGenre(G, {0, "Down Bad (Rap Feature)", "Taylor Swift", "Hip-Hop", "Album2", 2025, 200});
+    insertSongToGenre(G, {0, "Folded", "Kehlani", "R&B", "Album1", 2025, 210});
+    insertSongToGenre(G, {0, "Messy", "Lola Young", "R&B", "Single", 2025, 200});
+    insertSongToGenre(G, {0, "Anxiety", "Doechii", "R&B", "Single", 2025, 195});
+    insertSongToGenre(G, {0, "Slow It Down (R&B Remix)", "Benson Boone", "R&B", "EP1", 2025, 205});
+    insertSongToGenre(G, {0, "We Hug Now (Acoustic R&B)", "Sydney Rose", "R&B", "Single", 2025, 210});
+    insertSongToGenre(G, {0, "Man I Need (Soulful)", "Olivia Dean", "R&B", "Single", 2025, 215});
+    insertSongToGenre(G, {0, "Good Luck, Babe! (R&B)", "Chappell Roan", "R&B", "Single", 2025, 208});
+    insertSongToGenre(G, {0, "Birds of a Feather (Soft R&B)", "Billie Eilish", "R&B", "Album1", 2025, 195});
+    insertSongToGenre(G, {0, "Show Me Love (Urban)", "WizTheMc & Bees", "R&B", "Single", 2025, 205});
+    insertSongToGenre(G, {0, "Hold My Hand (R&B)", "Jess Glynne", "R&B", "Album5", 2025, 202});
+    insertSongToGenre(G, {0, "Messy (Acoustic)", "Lola Young", "R&B", "Single", 2025, 200});
+    insertSongToGenre(G, {0, "Party 4 U (R&B)", "Charli XCX", "R&B", "Album7", 2025, 215});
+    insertSongToGenre(G, {0, "Tap Twice (Dance)", "KESHA", "Dance", "Single", 2025, 198});
+    insertSongToGenre(G, {0, "Yum Yum Bounce (Dance)", "Trippy Tofu ft. Biaza", "Dance", "Single", 2025, 200});
+    insertSongToGenre(G, {0, "Azul (Dance Remix)", "J Balvin", "Dance", "Album4", 2025, 202});
+    insertSongToGenre(G, {0, "Rock That Body (Dance Mix)", "Black Eyed Peas", "Dance", "Album6", 2025, 210});
+    insertSongToGenre(G, {0, "Party 4 U (Electronica)", "Charli XCX", "Dance", "Album7", 2025, 215});
+    insertSongToGenre(G, {0, "Ordinary (Dance)", "Alex Warren", "Dance", "Single", 2025, 180});
+    insertSongToGenre(G, {0, "APT. (Dance Pop)", "BLACKPINK & Bruno Mars", "Dance", "Single", 2025, 220});
+    insertSongToGenre(G, {0, "Illusion (Dance)", "Dua Lipa", "Dance", "Album3", 2025, 198});
+    insertSongToGenre(G, {0, "Sailor Song (Dance Edit)", "Gigi Perez", "Dance", "Single", 2025, 190});
+    insertSongToGenre(G, {0, "Birds of a Feather (Upbeat)", "Billie Eilish", "Dance", "Album1", 2025, 195});
+    insertSongToGenre(G, {0, "Down Bad (Club Mix)", "Taylor Swift", "Dance", "Album2", 2025, 200});
+    insertSongToGenre(G, {0, "Messy (Dance Remix)", "Lola Young", "Dance", "Single", 2025, 200});
+   
+
     while(running == 1){
         cout << endl;
         cout << "===|| MusikKuh by EL CUMLAUDE ||===" << endl;
