@@ -1,10 +1,41 @@
-commit 1de1954e5c3d6c23d8f2e91437e516bdaadab100 (HEAD -> main, origin/jevan, jevan)
+commit 816260ab5353906985fe2b6628f429fafb40c6a6 (HEAD -> main, origin/main)
 Author: Jevan <jevansembiring@gmail.com>
 Date:   Sun Dec 14 22:25:02 2025 +0700
 
     menamhkan data dummy
 
-commit 0230d6a58799edc6eb793fe23a306f4c19a051d2 (origin/main)
+commit a84bebf3801162d13d9c2bf5109770f2f08bb505
+Author: jevan-sembiring <jevansembiring@gmail.com>
+Date:   Sun Dec 14 22:40:24 2025 +0700
+
+    Add commit log for recent changes
+
+commit 4160dfc958afb5629d9f7c5a9a0e707bd475dbcc
+Author: jevan-sembiring <jevansembiring@gmail.com>
+Date:   Sun Dec 14 22:00:05 2025 +0700
+
+    Create README.md for MusikKuh project
+    
+    Added README.md with project description and structure.
+
+commit 0230d6a58799edc6eb793fe23a306f4c19a051d2
+Author: Jevan <jevansembiring@gmail.com>
+Date:   Sun Dec 14 21:44:04 2025 +0700
+
+    Menambahkan file musik.cpp, musik.h, dan main.cpp sebagai commit pertama
+commit 04412a20a1f2662820fb4b7761ef6d69f6e4e3e2 (HEAD -> jevan, origin/jevan)
+Author: Jevan <jevansembiring@gmail.com>
+Date:   Wed Dec 24 10:30:25 2025 +0700
+
+    Perbaikan beberapa error dan final coding untuk presentasi
+
+commit 1de1954e5c3d6c23d8f2e91437e516bdaadab100
+Author: Jevan <jevansembiring@gmail.com>
+Date:   Sun Dec 14 22:25:02 2025 +0700
+
+    menamhkan data dummy
+
+commit 0230d6a58799edc6eb793fe23a306f4c19a051d2
 Author: Jevan <jevansembiring@gmail.com>
 Date:   Sun Dec 14 21:44:04 2025 +0700
 
