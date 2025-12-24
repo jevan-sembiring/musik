@@ -121,6 +121,7 @@ bool isSongExist(GenreList G, string title, string artist){
     }else if(Gx == nullptr){
         insertGenreLast(G, x.genre);
         Gx = findGenre(G, x.genre);
+        cout << "Lagu berhasil ditambahkan." << endl;
     }
     insertLastSong(Gx->songs, x);
 }

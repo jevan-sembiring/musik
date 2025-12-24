@@ -1,0 +1,2 @@
+1de1954 menamhkan data dummy
+0230d6a Menambahkan file musik.cpp, musik.h, dan main.cpp sebagai commit pertama

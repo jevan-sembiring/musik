@@ -46,7 +46,6 @@ int main(){
     insertSongToGenre(G, {0, "Rock That Body", "Black Eyed Peas", "Pop", "Album6", 2025, 210});
     insertSongToGenre(G, {0, "Good Luck, Babe!", "Chappell Roan", "Pop", "Single", 2025, 208});
     insertSongToGenre(G, {0, "Party 4 U", "Charli XCX", "Pop", "Album7", 2025, 215});
-    // Bisa lanjut ke Hip-Hop / R&B / Dance
     insertSongToGenre(G, {0, "Ordinary", "Alex Warren", "Hip-Hop", "Single", 2025, 180});
     insertSongToGenre(G, {0, "Not Like Us", "Kendrick Lamar", "Hip-Hop", "Album1", 2025, 200});
     insertSongToGenre(G, {0, "My World", "Chuckyy", "Hip-Hop", "Single", 2025, 195});
@@ -127,8 +126,6 @@ int main(){
                     S.duration = readInt();
 
                     insertSongToGenre(G, S);
-
-                    cout << "Lagu berhasil ditambahkan." << endl;
 
                 } else if(pilih == 2){
                     printLibraryByGenre(G);
